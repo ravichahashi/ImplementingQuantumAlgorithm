@@ -1,4 +1,4 @@
-# ImplementingQuantumAlgorithm
+# Implementing Quantum Algorithm on IBMQ
 
 261492 project
 
